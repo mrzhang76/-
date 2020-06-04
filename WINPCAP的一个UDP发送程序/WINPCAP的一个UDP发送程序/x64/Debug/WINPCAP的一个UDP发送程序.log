@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(38,9): warning C4551: 缺少参数列表的函数调用
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(50,9): warning C4551: 缺少参数列表的函数调用
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(61,9): warning C4551: 缺少参数列表的函数调用
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(79,9): warning C4551: 缺少参数列表的函数调用
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 2 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 4 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 5 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 6 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(104,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 1 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 2 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 3 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 4 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 5 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): warning C4477: “scanf”: 格式字符串“%02X”需要类型“unsigned int *”的参数，但可变参数 6 拥有了类型“u_char *”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(114,11): message : 请考虑在格式字符串中使用“%hhX”
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(188,70): warning C4474: fprintf: 格式字符串中传递的参数太多
+D:\workspace\VS2019\WINPCAP的一个UDP发送程序\WINPCAP的一个UDP发送程序\main.cpp(188,70): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  WINPCAP的一个UDP发送程序.vcxproj -> D:\workspace\VS2019\WINPCAP的一个UDP发送程序\x64\Debug\WINPCAP的一个UDP发送程序.exe
